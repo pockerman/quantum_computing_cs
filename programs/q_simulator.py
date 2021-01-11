@@ -28,9 +28,9 @@ class QSimulator(object):
 
     def position_probability(self, position_idx):
         """
-        Returns the propbability that the particle
+        Returns the probability that the particle
         is at the specified position index. This is simply the
-        norm square of the correpsonding applitude divided by the 
+        norm square of the corresponding amplitude divided by the
         norm squared of the state vector
         """
 
