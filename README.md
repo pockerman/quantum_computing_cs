@@ -1,6 +1,6 @@
 # pyq
 
-This is my set of notes for learning quantum programming. These notes have been produced using a variety of sources. However, the main references used are
+This is my set of notes for learning quantum computing. These notes have been produced using a variety of sources. However, the main references used are
 
 
 1. Noson Y. Yanofsky, Mirco A. Mannucci, ```Quantum Computing for Computer Scientists```, Cambridge University Press.
@@ -20,3 +20,7 @@ This is not done deliberately. Let me know if you identify places where your wor
 ## References 
 
 1. <a href="https://home.cern/news/announcement/computing/online-introductory-lectures-quantum-computing-6-november">Online introductory lectures on quantum computing from 6 November</a>
+2. <a href="https://www.youtube.com/watch?v=F_Riqjdh2oM">Quantum Computing for Computer Scientists</a>
+3. <a href="https://www.youtube.com/watch?v=nhUKHf-GN_Y">Steven Girvin - The Race to Build Quantum Computers (February 12, 2020)</a>
+4. <a href="https://www.youtube.com/watch?v=xnt2xSNRNn0">Quantum Physics Full Course | Quantum Mechanics Course | Part 1</a>
+5. <a href="https://www.youtube.com/watch?v=QQCMOc8yB70">Quantum Physics Full Course | Quantum Mechanics Course | Part 2</a>
