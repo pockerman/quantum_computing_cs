@@ -16,3 +16,7 @@ Note that this is work in progress. Although I try to give the credit needed, I 
 This is not done deliberately. Let me know if you identify places where your work has not been properly acknowledged.
 
 ---
+
+## References 
+
+1. <a href="https://home.cern/news/announcement/computing/online-introductory-lectures-quantum-computing-6-november">Online introductory lectures on quantum computing from 6 November</a>
