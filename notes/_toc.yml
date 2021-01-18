@@ -1,0 +1,23 @@
+- file: quantum_computing
+- file: basic_quantum_theory/basic_quantum_theory
+  sections:
+    - file: basic_quantum_theory/quantum_tunneling
+    - file: basic_quantum_theory/observables
+    - file: basic_quantum_theory/measuring
+    - file: basic_quantum_theory/entanglement
+    - file: basic_quantum_theory/dynamics
+    - file: basic_quantum_theory/assembling_quantum_systems
+    - file: basic_quantum_theory/exercises
+    
+- file: quantum_hardware/quantum_hardware
+  sections:
+    - file: quantum_hardware/qubits
+    - file: quantum_hardware/classical_gates 
+ 
+- file: quantum_information/quantum_information
+  sections:
+    - file: quantum_information/majority_voting
+   
+
+
+
