@@ -1,5 +1,7 @@
 # pyq
 
+<img src="notes/imgs/logo.jpeg" width="60%">
+
 This is my set of notes for learning quantum computing. These notes have been produced using a variety of sources. However, the main references used are
 
 
@@ -17,7 +19,19 @@ This is not done deliberately. Let me know if you identify places where your wor
 
 ---
 
-## References 
+## Building ```jupyter-book```
+
+Assuming that you have <a href="https://jupyterbook.org/intro.html">jupyter-book</a> installed you can generate
+and html version of the notebooks by issuing on the top level directory the following
+
+```
+jupyter-book build notebooks/
+```
+
+The command above will create a ```notebooks/_build``` directory.  Note that you make have to copy the ```imgs/``` into the  
+```notebooks/_build```
+
+## References & Videos
 
 1. <a href="https://home.cern/news/announcement/computing/online-introductory-lectures-quantum-computing-6-november">Online introductory lectures on quantum computing from 6 November</a>
 2. <a href="https://www.youtube.com/watch?v=F_Riqjdh2oM">Quantum Computing for Computer Scientists</a>
