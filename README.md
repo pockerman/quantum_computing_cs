@@ -1,6 +1,6 @@
 # pyq
 
-<img src="notes/imgs/logo.jpeg" width="60%" marging-left:"60px" />
+<img src="notes/imgs/logo.jpeg" width="60%"  />
 
 This is my set of notes for learning quantum computing. These notes have been produced using a variety of sources. However, the main references used are
 
