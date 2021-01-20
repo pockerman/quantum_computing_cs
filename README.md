@@ -25,7 +25,7 @@ Assuming that you have <a href="https://jupyterbook.org/intro.html">jupyter-book
 and html version of the notebooks by issuing on the top level directory the following
 
 ```
-jupyter-book build notebooks/
+jupyter-book build notes/
 ```
 
 The command above will create a ```notebooks/_build``` directory.  Note that you make have to copy the ```imgs/``` into the  
