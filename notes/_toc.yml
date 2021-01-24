@@ -2,6 +2,7 @@
 - file: basic_quantum_theory/basic_quantum_theory
   sections:
     - file: basic_quantum_theory/quantum_tunneling
+    - file: basic_quantum_theory/superposition_states
     - file: basic_quantum_theory/observables
     - file: basic_quantum_theory/measuring
     - file: basic_quantum_theory/entanglement
