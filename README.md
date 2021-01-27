@@ -38,3 +38,5 @@ The command above will create a ```notebooks/_build``` directory.  Note that you
 3. <a href="https://www.youtube.com/watch?v=nhUKHf-GN_Y">Steven Girvin - The Race to Build Quantum Computers (February 12, 2020)</a>
 4. <a href="https://www.youtube.com/watch?v=xnt2xSNRNn0">Quantum Physics Full Course | Quantum Mechanics Course | Part 1</a>
 5. <a href="https://www.youtube.com/watch?v=QQCMOc8yB70">Quantum Physics Full Course | Quantum Mechanics Course | Part 2</a>
+6. <a href="https://www.quantiki.org/"> Quantiki Quantum Information Portal and Wiki</a>
+
