@@ -14,7 +14,10 @@
     - file: quantum_hardware/qubits
     - file: quantum_hardware/classical_gates 
     - file: quantum_hardware/reversible_gates
+    - file: quantum_hardware/bloch_sphere
     - file: quantum_hardware/quantum_gates
+    - file: quantum_hardware/controlled_u
+    - file: quantum_hardware/universal_quantum_gates
  
 - file: quantum_information/quantum_information
   sections:
