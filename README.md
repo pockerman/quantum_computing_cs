@@ -1,12 +1,13 @@
 # pyq
 
-<img src="notes/imgs/logo.jpeg" width="60%" marging-left:"60px">
+<img src="notes/imgs/logo.jpeg" width="60%"  marging-left="60px"/>
 
 This is my set of notes for learning quantum computing. These notes have been produced using a variety of sources. However, the main references used are
 
 
 1. Noson Y. Yanofsky, Mirco A. Mannucci, ```Quantum Computing for Computer Scientists```, Cambridge University Press.
 2. Michael A. Nielsen, Isaac L. Chuang. ```Quantum Computation and Quantum Information```, Cambridge University Press.
+3. Jack D. Hidary, ```Quantum Computing: An Applied Approach```, Springer.
 
 Primarily, these notes follow the first book and use other sources for further explaining points and/or fill missing details.
 I use Python to both solve the exercises as well as the examples in the first book.
@@ -25,7 +26,7 @@ Assuming that you have <a href="https://jupyterbook.org/intro.html">jupyter-book
 and html version of the notebooks by issuing on the top level directory the following
 
 ```
-jupyter-book build notebooks/
+jupyter-book build notes/
 ```
 
 The command above will create a ```notebooks/_build``` directory.  Note that you make have to copy the ```imgs/``` into the  
@@ -38,3 +39,5 @@ The command above will create a ```notebooks/_build``` directory.  Note that you
 3. <a href="https://www.youtube.com/watch?v=nhUKHf-GN_Y">Steven Girvin - The Race to Build Quantum Computers (February 12, 2020)</a>
 4. <a href="https://www.youtube.com/watch?v=xnt2xSNRNn0">Quantum Physics Full Course | Quantum Mechanics Course | Part 1</a>
 5. <a href="https://www.youtube.com/watch?v=QQCMOc8yB70">Quantum Physics Full Course | Quantum Mechanics Course | Part 2</a>
+6. <a href="https://www.quantiki.org/"> Quantiki Quantum Information Portal and Wiki</a>
+
