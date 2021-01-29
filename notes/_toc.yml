@@ -18,6 +18,7 @@
     - file: quantum_hardware/quantum_gates
     - file: quantum_hardware/controlled_u
     - file: quantum_hardware/universal_quantum_gates
+    - file: quantum_hardware/exercises
  
 - file: quantum_information/quantum_information
   sections:
