@@ -8,6 +8,7 @@ This is my set of notes for learning quantum computing. These notes have been pr
 1. Noson Y. Yanofsky, Mirco A. Mannucci, ```Quantum Computing for Computer Scientists```, Cambridge University Press.
 2. Michael A. Nielsen, Isaac L. Chuang. ```Quantum Computation and Quantum Information```, Cambridge University Press.
 3. Jack D. Hidary, ```Quantum Computing: An Applied Approach```, Springer.
+4. Eleanor Rieffel, Wolfgang Polak, ```Quantum Computing: A Gentle Introduction```, The MIT Press.
 
 Primarily, these notes follow the first book and use other sources for further explaining points and/or fill missing details.
 I use Python to both solve the exercises as well as the examples in the first book.
