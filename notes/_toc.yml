@@ -16,6 +16,7 @@
     - file: quantum_hardware/reversible_gates
     - file: quantum_hardware/bloch_sphere
     - file: quantum_hardware/quantum_gates
+    - file: quantum_hardware/controlled_not_gate
     - file: quantum_hardware/controlled_u
     - file: quantum_hardware/universal_quantum_gates
     - file: quantum_hardware/exercises
