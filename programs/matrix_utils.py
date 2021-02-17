@@ -11,6 +11,7 @@ def is_unitary_matrix_complex(matrix):
 
     return np.allclose(I, np.dot(u_T, matrix)) and np.allclose(I, np.dot(matrix, u_T))
 
+
 def is_unitary_matrix(matrix):
 
     I = np.identity(matrix.shape[0])
