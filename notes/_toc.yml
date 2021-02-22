@@ -16,15 +16,19 @@
     - file: quantum_hardware/reversible_gates
     - file: quantum_hardware/bloch_sphere
     - file: quantum_hardware/quantum_gates
+    - file: quantum_hardware/reversible_gates
+    - file: quantum_hardware/controlled_not_gate
+    - file: quantum_hardware/toffoli_gate
     - file: quantum_hardware/controlled_u
     - file: quantum_hardware/universal_quantum_gates
     - file: quantum_hardware/exercises
     
 - file: quantum_algorithms/quantum_algorithms
   sections:
-  - file: quantum_algorithms/deutsch_algo 
-  - file: quantum_algorithms/the_deutsch_jozsa_algorithm
- 
+    - file: quantum_algorithms/deutsch_algo 
+    - file: quantum_algorithms/the_deutsch_jozsa_algorithm
+    - file: quantum_algorithms/grover_algorithm
+     
 - file: quantum_information/quantum_information
   sections:
     - file: quantum_information/majority_voting
