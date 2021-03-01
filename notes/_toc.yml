@@ -26,7 +26,9 @@
 - file: quantum_algorithms/quantum_algorithms
   sections:
     - file: quantum_algorithms/deutsch_algo 
+    - file: quantum_algorithms/the_deutsch_jozsa_algorithm
     - file: quantum_algorithms/grover_algorithm
+    - file: quantum_algorithms/shor_algorithm
      
 - file: quantum_information/quantum_information
   sections:
