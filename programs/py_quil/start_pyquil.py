@@ -1,10 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Deutch's Algorithm
-
-# In[1]:
-
 
 from pyquil import get_qc, Program
 from pyquil.gates import CNOT, H 
