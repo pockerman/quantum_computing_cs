@@ -1,4 +1,7 @@
 - file: quantum_computing
+- file: complex_numbers/complex_numbers
+  sections:
+    - file: complex_numbers/basic_definitions
 - file: basic_quantum_theory/basic_quantum_theory
   sections:
     - file: basic_quantum_theory/quantum_tunneling
