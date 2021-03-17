@@ -23,9 +23,9 @@ This is not done deliberately. Let me know if you identify places where your wor
 
 ## Contents
 
-
-- <a href="#">Quantum hardware</a>
-- <a href="#">Quantum algorithms</a>
+- <a href="notes/complex_numbers/complex_numbers.md">Complex numbers</a>
+- <a href="notes/quantum_hardware/quantum_hardware.md">Quantum hardware</a>
+- <a href="notes/quantum_algorithms/quantum_algorithms.md">Quantum algorithms</a>
 
 ## Building ```jupyter-book```
 
