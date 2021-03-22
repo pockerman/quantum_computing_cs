@@ -47,4 +47,5 @@ The command above will create a ```notebooks/_build``` directory.  Note that you
 4. <a href="https://www.youtube.com/watch?v=xnt2xSNRNn0">Quantum Physics Full Course | Quantum Mechanics Course | Part 1</a>
 5. <a href="https://www.youtube.com/watch?v=QQCMOc8yB70">Quantum Physics Full Course | Quantum Mechanics Course | Part 2</a>
 6. <a href="https://www.quantiki.org/"> Quantiki Quantum Information Portal and Wiki</a>
+7. <a href="https://www.youtube.com/playlist?list=PLOFEBzvs-VvrXTMy5Y2IqmSaUjfnhvBHR">Qiskit: Introduction to quantum computing and quantum hardware</a>
 
